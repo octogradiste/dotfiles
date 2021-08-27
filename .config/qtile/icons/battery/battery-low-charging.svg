@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="battery-half"
+   class="svg-inline--fa fa-battery-half fa-w-20"
+   role="img"
+   viewBox="0 0 640 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="battery-low-charging.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.2029102"
+     inkscape:cx="308.00305"
+     inkscape:cy="303.01515"
+     inkscape:window-width="1910"
+     inkscape:window-height="1046"
+     inkscape:window-x="5"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     style="stroke-width:0.625;fill:#00ff00"
+     d="M 320,216 H 180 v 80 h 140 z"
+     id="path14" />
+  <path
+     id="path12"
+     style="stroke-width:0.625;fill:#ffffff"
+     d="M 150 156 C 133.43125 156 120 169.43125 120 186 L 120 326 C 120 342.56875 133.43125 356 150 356 L 470 356 C 486.56875 356 500 342.56875 500 326 L 500 316 L 505 316 C 513.28437 316 520 309.28437 520 301 L 520 211 C 520 202.71562 513.28437 196 505 196 L 500 196 L 500 186 C 500 169.43125 486.56875 156 470 156 L 150 156 z M 160 196 L 460 196 L 460 236 L 480 236 L 480 276 L 460 276 L 460 316 L 160 316 L 160 196 z " />
+</svg>

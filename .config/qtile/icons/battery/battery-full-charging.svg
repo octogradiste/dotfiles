@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="battery-full"
+   class="svg-inline--fa fa-battery-full fa-w-20"
+   role="img"
+   viewBox="0 0 640 512"
+   version="1.1"
+   id="svg473"
+   sodipodi:docname="battery-full-charging.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs477" />
+  <sodipodi:namedview
+     id="namedview475"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:zoom="0.85058595"
+     inkscape:cx="260.40872"
+     inkscape:cy="174.58553"
+     inkscape:window-width="1910"
+     inkscape:window-height="1046"
+     inkscape:window-x="5"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg473" />
+  <path
+     style="fill:#00ff00;stroke-width:0.624999"
+     d="M 440.00001,216 H 179.99998 v 80 h 260.00003 z"
+     id="path10" />
+  <path
+     id="path8"
+     style="fill:#ffffff;stroke-width:0.624999"
+     d="M 150 156 C 133.43124 156 120 169.43123 120 186 L 120 326 C 120 342.56875 133.43124 356 150 356 L 470 356 C 486.56874 356 500 342.56875 500 326 L 500 316 L 505 316 C 513.28436 316 520 309.28437 520 301 L 520 211 C 520 202.71562 513.28436 196 505 196 L 500 196 L 500 186 C 500 169.43123 486.56874 155.99999 470 156 L 150 156 z M 160 196 L 460 196 L 460 236 L 480 236 L 480 276 L 460 276 L 460 316 L 160 316 L 160 196 z " />
+</svg>

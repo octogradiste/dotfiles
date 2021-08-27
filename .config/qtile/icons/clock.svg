@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="far"
+   data-icon="clock"
+   class="svg-inline--fa fa-clock fa-w-16"
+   role="img"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg411"
+   sodipodi:docname="clock.svg"
+   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs415" />
+  <sodipodi:namedview
+     id="namedview413"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.7011719"
+     inkscape:cx="256.58783"
+     inkscape:cy="114.92078"
+     inkscape:window-width="1910"
+     inkscape:window-height="1046"
+     inkscape:window-x="5"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg411" />
+  <path
+     fill="currentColor"
+     d="M 256,75.835641 C 156.47372,75.835641 75.835641,156.47372 75.835641,256 75.835641,355.52628 156.47372,436.16435 256,436.16435 355.52628,436.16435 436.16435,355.52628 436.16435,256 436.16435,156.47372 355.52628,75.835641 256,75.835641 Z m 0,325.458199 c -80.27484,0 -145.29384,-65.019 -145.29384,-145.29384 0,-80.27484 65.019,-145.29384 145.29384,-145.29384 80.27484,0 145.29384,65.019 145.29384,145.29384 0,80.27484 -65.019,145.29384 -145.29384,145.29384 z m 44.8958,-75.84338 -61.67724,-44.82315 c -2.25206,-1.67088 -3.5597,-4.28617 -3.5597,-7.04675 V 154.29432 c 0,-4.7947 3.92294,-8.71764 8.71763,-8.71764 h 23.24702 c 4.79469,0 8.71763,3.92294 8.71763,8.71764 V 257.235 l 48.52814,35.3064 c 3.92293,2.83323 4.72204,8.28175 1.88881,12.20468 l -13.65761,18.81555 c -2.83323,3.8503 -8.28175,4.72206 -12.20468,1.88883 z"
+     id="path409"
+     style="fill:#ffffff;stroke-width:0.726469" />
+</svg>
