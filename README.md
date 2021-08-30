@@ -1,7 +1,9 @@
 # Dotfiles
-A collection of config files.
+A collection of my config files.
 
-### Config
+Useful when changing distro or laptop or computer.
+
+### Available config files
 - bash
 - qtile
 - compton
