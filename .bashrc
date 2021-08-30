@@ -116,3 +116,5 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# add flutter pub-cache to PATH to use the dartdoc command
+export PATH="$PATH":"$HOME/snap/flutter/common/flutter/.pub-cache/bin"
