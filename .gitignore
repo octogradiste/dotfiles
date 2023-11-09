@@ -1,2 +1,2 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
+# Ignore everything. Use git add -f to add files
+*
