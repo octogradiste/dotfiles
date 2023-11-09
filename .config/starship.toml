@@ -1,0 +1,32 @@
+format = '''
+$username@$hostname $directory $git_branch $git_status
+➤ '''
+
+add_newline = false
+
+[username]
+show_always = true
+format = '[$user]($style)'
+style_user = 'green'
+style_root = 'red'
+
+[hostname]
+ssh_only = false
+format = '[$hostname]($style)'
+style = 'green'
+
+[directory]
+format = '[$path]($style)'
+truncation_length = 0
+truncate_to_repo = false
+style = 'cyan'
+
+[git_branch]
+format = '[<$branch>]($style)'
+style = 'yellow'
+
+[git_status]
+conflicted = "≠"
+up_to_date = "✔"
+style = "bright-white"
+format = "$all_status$ahead_behind"
