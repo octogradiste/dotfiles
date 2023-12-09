@@ -118,3 +118,4 @@ fi
 
 # add flutter pub-cache to PATH to use the dartdoc command
 export PATH="$PATH":"$HOME/snap/flutter/common/flutter/.pub-cache/bin"
+. "$HOME/.cargo/env"
